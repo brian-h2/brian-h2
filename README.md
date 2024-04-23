@@ -14,7 +14,6 @@
   - ⚡ Comence estudiando de forma auto-didacta, hasta que decidi inscribirme en un curso de Coder House para desarrollo web en 2022, posterior al curso comence a estudiar en IES XXI como Analista de Sistemas contando ya como base cursos, proyectos y conocimientos que          habia obtenido. Actualmente me encuentro formandome para conseguir un trabajo en segundo año de la carrera.
   - Apasionado por la solucion de problemas que se presenten, muy apegado al algoritmo.
   - Necesito unos 10 minutos de descanso y puedo volver a sentarme.
-  - Apasionado por la solucion de problemas que se presenten, muy apegado al algoritmo.
 
   ## 💻Stack de tecnologias <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 24px> 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)  
