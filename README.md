@@ -11,7 +11,7 @@
   ## 🧭Sobre mi
 
   
-  - ⚡ Comence estudiando de forma auto-didacta, hasta que decidi inscribirme en un curso de Coder House para desarrollo web en 2022, posterior al curso comence a estudiar en IES XXI como Analista de Sistemas contando ya como base cursos, proyectos y conocimientos que          habia obtenido. Actualmente me encuentro formandome para conseguir un trabajo en segundo año de la carrera.
+  - ⚡ Comence estudiando de forma auto-didacta, hasta que decidi inscribirme en un curso de Coder House para desarrollo web en 2022, posterior al curso comence a estudiar en IES XXI como Analista de Sistemas contando ya como base cursos, proyectos y conocimientos que habia obtenido. Actualmente me encuentro trabajando en una empresa como Desarrollador .Net y cursando tercer año en la facultad.
   - Apasionado por la solucion de problemas que se presenten, muy apegado al algoritmo.
   - Necesito unos 10 minutos de descanso y puedo volver a sentarme.
 
